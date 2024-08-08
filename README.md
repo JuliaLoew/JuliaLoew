@@ -11,9 +11,17 @@
 
 
 
-Besuche mich auf LinkedIn:
+
 <a href="https://www.linkedin.com/in/dein-profil](https://www.linkedin.com/in/julia-löw" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
+</a>
+
+<a href="https://www.xing.com/profile/Julia_Loew4" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Xing_Logo_2015.png" alt="Xing" width="40"/>
+</a>
+
+<a href="https://www.facebook.com/JuliaLoew55" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40"/>
 </a>
 
 
