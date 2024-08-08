@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://www.xing.com/profile/Julia_Loew4" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Xing_Logo_2017.svg/1200px-Xing_Logo_2017.svg.png" alt="Xing" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Xing_Logo_2017.svg/1200px-Xing_Logo_2017.svg.png](https://www.designenlassen.de/blog/wp-content/uploads/2024/03/Xing.png" alt="Xing" width="40"/>
 </a>
 
 <a href="https://www.facebook.com/JuliaLoew55" target="_blank">
