@@ -9,3 +9,8 @@
 - ⚡ Fun fact: I enjoy creating all kinds of things, from programming to other projects!
 
 
+
+
+Besuche mich auf LinkedIn:
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/julia-löw)
