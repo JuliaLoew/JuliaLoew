@@ -1,5 +1,5 @@
 ## Julia Löw -> ERP Solutions Expert 
-Driving Change through Project Leadership, Presales, and Development 👋
+# Driving Change through Project Leadership, Presales, and Development 👋
 
 - 🔭 I have been working in the software industry for over 15 years.
 - 🌱 I have extensive experience in project management, sales, customising and programming of software solutions.
