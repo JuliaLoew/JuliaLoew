@@ -12,5 +12,6 @@
 
 
 Besuche mich auf LinkedIn:
-
+<a href="https://www.linkedin.com/in/dein-profil" target="_blank">
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/julia-löw)
+</a>
