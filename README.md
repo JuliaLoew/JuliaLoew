@@ -18,7 +18,7 @@
 
 ## 🌐 Follow Me on Social Networks
 
-<div style="display: flex; gap: 45px;">
+<div style="display: flex; gap: 30px;">
     <a href="https://www.linkedin.com/in/julia-löw" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
     </a>
