@@ -35,7 +35,7 @@
 ## 🌐 Follow Me on Social Networks
 
 <div style="display: flex; gap: 30px;">
-    <a href="https://www.linkedin.com/in/julia-löw" target="_blank">
+    <a href="https://www.linkedin.com/in/julia-loew" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"/>
     </a>
     <a href="https://www.xing.com/profile/Julia_Loew4" target="_blank">
